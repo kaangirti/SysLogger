@@ -1,0 +1,6 @@
+C:\Root\koinb-web3\SysLogger\bin\Release\SysLogger.dll
+C:\Root\koinb-web3\SysLogger\bin\Release\SysLogger.pdb
+C:\Root\koinb-web3\SysLogger\obj\Release\SysLogger.csproj.AssemblyReference.cache
+C:\Root\koinb-web3\SysLogger\obj\Release\SysLogger.csproj.CoreCompileInputs.cache
+C:\Root\koinb-web3\SysLogger\obj\Release\SysLogger.dll
+C:\Root\koinb-web3\SysLogger\obj\Release\SysLogger.pdb

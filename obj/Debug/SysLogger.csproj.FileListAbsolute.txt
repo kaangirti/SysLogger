@@ -1,0 +1,6 @@
+C:\Root\koinb-web3\SysLogger\obj\Debug\SysLogger.csproj.AssemblyReference.cache
+C:\Root\koinb-web3\SysLogger\obj\Debug\SysLogger.csproj.CoreCompileInputs.cache
+C:\Root\koinb-web3\SysLogger\bin\Debug\SysLogger.dll
+C:\Root\koinb-web3\SysLogger\bin\Debug\SysLogger.pdb
+C:\Root\koinb-web3\SysLogger\obj\Debug\SysLogger.dll
+C:\Root\koinb-web3\SysLogger\obj\Debug\SysLogger.pdb
